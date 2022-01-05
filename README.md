@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](![image](https://user-images.githubusercontent.com/92208585/148197833-15c59a36-634a-4f3d-835d-1ec678fb2ea8.png)
+![A screenshot of the project](![image](https://user-images.githubusercontent.com/92208585/148197833-15c59a36-634a-4f3d-835d-1ec678fb2ea8.png)
 )
 
 
@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Davetech101)
-- Twitter - [@yourusername](https://www.twitter.com/og_rhoze)
+- Frontend Mentor - [@Davetech101](https://www.frontendmentor.io/profile/Davetech101)
+- Twitter - [@og_rhoze](https://www.twitter.com/og_rhoze)
