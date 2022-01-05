@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![A screenshot of the project](![image](https://user-images.githubusercontent.com/92208585/148197833-15c59a36-634a-4f3d-835d-1ec678fb2ea8.png)
-)
+![A screenshot of the project](https://user-images.githubusercontent.com/92208585/148197833-15c59a36-634a-4f3d-835d-1ec678fb2ea8.png)
+
 
 
 ### Links
